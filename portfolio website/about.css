@@ -1,0 +1,38 @@
+.side{
+    display: flex;
+}
+img{
+    height: 400px;
+    width: 700px;
+    margin-top: 50px;
+    margin-right: 20px;
+    box-shadow: 15px 15px black;
+    border: 4px solid black;
+}
+h1{
+    text-align: center;
+   
+    font-size: 40px;
+    margin: 20px auto 10px;
+    width: 300px;
+    box-shadow: 10px 10px black;
+    border: 4px solid black;
+    margin-bottom: 40px;
+
+}
+p{
+    font-size: 25px;
+    word-spacing: 10px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   margin: 10px;
+}
+h3{
+    font-size: 30px;
+    margin: none;
+}
+body{
+    background: url("bg4.png");
+    background-size: cover;
+    margin: 15px;
+    
+}

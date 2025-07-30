@@ -1,0 +1,77 @@
+body{
+    background: url("bg.png");
+}
+
+p{
+    font-size: 30px;
+    word-spacing: 3px;
+    letter-spacing: 1px;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+    
+    
+
+    
+}
+
+h3{
+    text-align: center;
+    font-size: 25px;
+}
+.nav{
+    display: flex;
+    list-style: none;
+    font-size: 30px;
+    background-color: rgb(27, 27, 27);
+    height: 53px;
+    align-items: center;
+   
+    text-decoration: none;
+     border: 7px solid rgb(9, 9, 9);
+     
+    
+   
+    
+}
+li{
+   margin-right: 20px;
+  
+   
+     
+
+    font-size: 30px;
+    
+}
+a{
+   color: white;
+      text-decoration: none;
+      padding: 10px;
+   
+    
+}
+a:hover,.active{
+    background-color: blue;
+}
+.side{
+    display: flex;
+}
+img{
+    height: 500px;
+    width: 300px;
+    margin-right: 20px;
+   
+    margin-top: 20px;
+    margin-left: 5px;
+    border: 4px solid black;
+    
+
+   
+}
+h2{
+
+    font-size: 30px;
+    margin-bottom: none;
+}

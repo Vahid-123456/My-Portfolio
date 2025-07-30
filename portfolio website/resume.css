@@ -1,0 +1,27 @@
+img{
+   
+    width: 470px;
+    margin: 10px auto 10px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    box-shadow: 20px 20px black;
+    border: 7px solid black;
+    
+
+    
+}
+ 
+
+h1{
+    font-size: 30px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    border: 5px solid yellow;
+    box-shadow: 10px 10px black;
+}
+body{
+    background: url("bg4.png");
+    background-size: cover;
+}
